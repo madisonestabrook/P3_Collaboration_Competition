@@ -4,7 +4,7 @@ This project is my third project on [Udacity's Deep Reinforcement Learning Nanod
 # Project Details
 The environment is the `Tennis` enviroment, which is an extension of Unity’s [UnityEnvironment](https://github.com/Unity-Technologies/ml-agents/blob/master/docs/Installation.md). The `Tennis` environment has different versions for [Linux](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P3/Tennis/Tennis_Linux.zip), [Windows (32-bit)](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P3/Tennis/Tennis_Windows_x86.zip), [Windows (64-bit)](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P3/Tennis/Tennis_Windows_x86_64.zip) and [MacOSX](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P3/Tennis/Tennis.app.zip). The following screenshot shows the environment set-up:
 
-![This is what the environment looks like](Environment_Screenshot.png)
+![This is what the environment looks like](Environment_Screenshotp3.png)
 
 The state is a [numpy](https://numpy.org/) array of length 8.
 
